@@ -1,6 +1,3 @@
-# Real-Time-Text-To-Image-Generator---Gen-AI
-<div align="center">
-
 # 🎨 Real-Time Text-to-Image Generator (GenAI)
 
 ### Transform Natural Language into High-Quality AI-Generated Images
